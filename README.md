@@ -15,10 +15,10 @@ I learn by building: I write detections, attack my own lab to see if they fire, 
 
 ### Toolbox
 
-**SOC:** Wazuh, Microsoft Sentinel, Splunk, Sysmon, MITRE ATT&CK
-**Query and code:** KQL, SPL, SQL, Sigma, Python, Go, TypeScript
-**Offensive:** Kali Linux, Metasploit, OSINT, OT/ICS (Siemens S7-1200, Modbus)
-**Infra:** Linux, Docker, AWS, Git
+- **SOC:** Wazuh, Microsoft Sentinel, Splunk, Sysmon, MITRE ATT&CK
+- **Query and code:** KQL, SPL, SQL, Sigma, Python, Go, TypeScript
+- **Offensive:** Kali Linux, Metasploit, OSINT, OT/ICS (Siemens S7-1200, Modbus)
+- **Infra:** Linux, Docker, AWS, Git
 
 ### Now
 
