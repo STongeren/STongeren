@@ -4,7 +4,7 @@ Cyber Security student at the Hogeschool van Amsterdam (Associate degree, 2025-2
 
 I learn by building: I write detections, attack my own lab to see if they fire, and publish the write-up.
 
-**1st place, Splunk Boss of the SOC (BOTS) v10**, Cisco Amsterdam, November 2026, with an invite to the EMEA round in March 2027.
+**1st place, Splunk Boss of the SOC (BOTS) v10** with a team of three HvA students (Cisco Amsterdam, November 2026), which earned us an invite to the EMEA BOTS in March 2027.
 
 ### Featured work
 
