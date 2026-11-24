@@ -16,7 +16,7 @@ I learn by building: I write detections, attack my own lab to see if they fire, 
 | [wazuh-siem-homelab](https://github.com/STongeren/wazuh-siem-homelab) | Home SOC with Wazuh and Sysmon that catches Mimikatz, brute force and a Metasploit reverse shell launched from Kali |
 | [account-security-review](https://github.com/STongeren/account-security-review) | My own compromised mailbox investigated like a SOC case, plus a checklist and a k-anonymity leaked-password checker |
 | [Portfolio](https://github.com/STongeren/STongeren.github.io) | My portfolio as a walkable 3D world with a working desktop OS on the screen |
-| [NullHawk](https://github.com/STongeren/pentagi) | Fork of an autonomous AI pentest system that adds DNS-TXT target-ownership verification before any attack runs |
+| [NullHawk](https://github.com/STongeren/nullhawk) | Fork of an autonomous AI pentest system that adds DNS-TXT target-ownership verification before any attack runs |
 
 ### Toolbox
 
