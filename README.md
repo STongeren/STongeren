@@ -33,7 +33,7 @@ Kali attacks a Windows endpoint; Wazuh and Sysmon catch Mimikatz, brute force an
 My own compromised mailbox investigated like a SOC case, plus a checklist and a leaked-password checker.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/STongeren/STongeren.github.io"><img src="assets/portfolio.png" alt="3D portfolio" width="100%"></a>
+<a href="https://stongeren.github.io/"><img src="assets/portfolio.png" alt="3D portfolio" width="100%"></a>
 My portfolio as a walkable 3D world, with a working desktop OS on the screen.
 </td>
 </tr>
