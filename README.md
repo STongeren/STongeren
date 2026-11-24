@@ -10,31 +10,31 @@ Associate degree Cyber Security at the Hogeschool van Amsterdam (2025-2027), wit
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/cybersim"><img src="assets/cybersim.png" alt="CyberSim" width="100%"></a>
-A SOC career game in the browser: triage alerts, hunt in KQL and SPL, fight live intrusions and run the SOC. <a href="https://www.playcybersim.com">Play it free</a>.
+<b>CyberSim</b> · A SOC career game in the browser: triage alerts, hunt in KQL and SPL, fight live intrusions and run the SOC. <a href="https://www.playcybersim.com">Play it free</a>.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/digital-forensics-game"><img src="assets/forensics.png" alt="Digital Forensics" width="100%"></a>
-A first-person police forensics game: chain of custody, imaging, examination and a defence lawyer in court.
+<b>Digital Forensics</b> · A first-person police forensics game: chain of custody, imaging, examination and a defence lawyer in court.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/crypto-soc-detection"><img src="assets/detect.png" alt="crypto-soc-detection" width="100%"></a>
-Detections for a crypto exchange, scored against labelled synthetic logs. One query language per week.
+<b>crypto-soc-detection</b> · Detections for a crypto exchange, scored against labelled synthetic logs. One query language per week.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/wazuh-siem-homelab"><img src="assets/wazuh.png" alt="Wazuh SIEM homelab" width="100%"></a>
-Kali attacks a Windows endpoint; Wazuh and Sysmon catch Mimikatz, brute force and a Metasploit reverse shell.
+<b>Wazuh SIEM homelab</b> · Kali attacks a Windows endpoint; Wazuh and Sysmon catch Mimikatz, brute force and a Metasploit reverse shell.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/account-security-review"><img src="assets/account.png" alt="Account security review" width="100%"></a>
-My own compromised mailbox investigated like a SOC case, plus a checklist and a leaked-password checker.
+<b>Account security review</b> · My own compromised mailbox investigated like a SOC case, plus a checklist and a leaked-password checker.
 </td>
 <td width="50%" valign="top">
 <a href="https://stongeren.github.io/"><img src="assets/portfolio.png" alt="3D portfolio" width="100%"></a>
-My portfolio as a walkable 3D world, with a working desktop OS on the screen.
+<b>Portfolio</b> · My portfolio as a walkable 3D world, with a working desktop OS on the screen.
 </td>
 </tr>
 </table>
