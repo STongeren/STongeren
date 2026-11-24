@@ -46,6 +46,7 @@ Also: **[NullHawk](https://github.com/STongeren/nullhawk)**, my fork of an auton
 - **SOC:** Wazuh, Microsoft Sentinel, Splunk, Sysmon, MITRE ATT&CK
 - **Query and code:** KQL, SPL, SQL, Sigma, Python, Go, TypeScript
 - **Offensive:** Kali Linux, Metasploit, OSINT, OT/ICS (Siemens S7-1200, Modbus)
+- **Application security:** IDOR fixes, row-level security and tenant isolation, JWT hardening, CSP, AES-256-GCM
 - **Infra:** Linux, Docker, AWS, Git
 
-[LinkedIn](https://www.linkedin.com/in/stongeren/) · [Website](https://stongeren.github.io/)
+[LinkedIn](https://www.linkedin.com/in/stongeren/) · [Website](https://stongeren.github.io/) · [One-page CV](https://stongeren.github.io/cv/)
