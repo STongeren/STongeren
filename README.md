@@ -20,7 +20,7 @@ Associate degree Cyber Security at the Hogeschool van Amsterdam (2025-2027), wit
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/crypto-soc-detection"><img src="assets/detect.png" alt="crypto-soc-detection" width="100%"></a>
-<b>crypto-soc-detection</b> · Detections for a crypto exchange, scored against labelled synthetic logs. One query language per week.
+<b>crypto-soc-detection</b> · A detection set for a crypto exchange that I am building one query language per week, scored against labelled synthetic logs.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/STongeren/wazuh-siem-homelab"><img src="assets/wazuh.png" alt="Wazuh SIEM homelab" width="100%"></a>
